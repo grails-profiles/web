@@ -1,0 +1,20 @@
+Grails Profiles encapsulate project commands, templates, and plugins.
+To create an application using the `web` profile you can use the next command:
+
+[source, bash]
+----
+grails create-app myapp
+----
+
+`web` is the default profile. The above statement is equivalent to:
+
+[source, bash]
+----
+grails create-app myapp --profile=web
+----
+
+Also, you could create a Grails application using the `web` profile with the http://start.grails.org[Grails Application Forge]
+
+image::start.png[Grails Application Forge]
+
+Grails Application Forge is a great way to discover the different provided features in the profile.
