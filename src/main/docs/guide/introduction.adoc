@@ -18,6 +18,6 @@ You can also choose this project when generating your project from the http://st
 [source, bash]
 ----
 curl -O start.grails.org/myapp.zip
----
+----
 
 Grails Application Forge is a great way to discover the different provided features in the profile.
