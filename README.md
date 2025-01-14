@@ -1,3 +1,7 @@
+# Relocated to
+
+https://github.com/grails/grails-profiles
+
 # Grails Web Profile
 
 [![Build Status](https://travis-ci.org/grails-profiles/web.svg?branch=master)](https://travis-ci.org/grails-profiles/web)
